@@ -1,0 +1,3 @@
+[submodule "angular-nginx-frontend"]
+	path = angular-nginx-frontend
+	url = https://github.com/maria-boilerplates/angular-nginx-frontend.git
