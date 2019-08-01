@@ -1,3 +1,6 @@
 [submodule "angular-nginx-frontend"]
 	path = angular-nginx-frontend
 	url = https://github.com/maria-boilerplates/angular-nginx-frontend.git
+[submodule "node-express-backend"]
+	path = node-express-backend
+	url = https://github.com/maria-boilerplates/node-express-backend.git
